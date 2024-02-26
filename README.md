@@ -39,7 +39,7 @@ At SparkShopper, we’re all about making  your shopping experience enjoyable an
 
 #### Deployment Link :
 
-https://spark-shopper-c35a92bbd283.herokuapp.com/
+https://spark--shopper-02f002a5a4ff.herokuapp.com/
 
 # Usage
 
